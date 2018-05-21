@@ -1,0 +1,32 @@
+*{
+	background-color:black;
+}
+
+#bunk{
+	background-color:white;
+	display:inline;
+	font-family:"Helvetica", "Arial";
+	font-size:48px;
+	text-align:center;
+	font-weight:bold;
+}
+
+#farts{
+	text-align:center;
+}
+
+img{
+	display:block;
+	margin:auto;
+}
+
+#spunk{
+	color:white;
+}
+
+#toots{
+	width:66%;
+	height:100%;
+	text-align:center;
+	margin:auto;
+}
